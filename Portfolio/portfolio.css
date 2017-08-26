@@ -1,0 +1,61 @@
+h1 {
+  font-family: "Playfair Display", serif;
+  color: white;
+  size: "96px";
+  Line Height: 108px;
+  background-color: gray;
+  padding: 20px;
+}
+
+nav {
+  font-family: "Playfair Display", Helvetica, Arial, Sans-serif;
+  size: "8px";
+}
+
+h2 {
+  font-family: "Playfair Display", serif;
+  size: "10px";
+  padding: 50px;
+}
+
+
+
+header {
+  border-bottom: dotted #c39d63;
+  padding: 50px
+}
+  footer {
+    border-top: dotted #c39d63;
+  }
+
+p {
+  font-family: "Playfair Display", sans-serif;
+  size: "12px";
+  Line Height: 32px;
+  color: #333333;
+}
+
+
+a:link {
+    color: gray;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: cyan;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: pink;
+    background-color: transparent;
+    text-decoration: bold;
+}
+
+a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+}
